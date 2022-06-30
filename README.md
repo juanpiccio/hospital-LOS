@@ -1,5 +1,5 @@
-# hospital-LOS
- ## <font color='red'>Read Me:</font>
+# Predicting length of stay in hospital
+ ## <font color='red'>What is this project all about?</font>
 
 In this project, I use decision tree models to predict the length of stay (in days) of patients entering an ICU (Intensive Care Unit).
 
