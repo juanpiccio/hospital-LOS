@@ -43,5 +43,5 @@ In all cases, the hyperparameters were optimized.
 
 As performance metric, *RMSE* (root mean squared error) was used.
 
-The predictions were submitted to [this kaggle competition](https://www.kaggle.com/competitions/b-gse-dt-los/leaderboard), achieving the first place in the leaderboard.Predicting length of stay in hospital employing pandas and sklearn as main libraries. Lots of data wrangling and decision trees models
+The predictions were submitted to [this kaggle competition](https://www.kaggle.com/competitions/b-gse-dt-los/leaderboard), achieving the first place in the leaderboard.
 
